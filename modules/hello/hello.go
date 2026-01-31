@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/samma9/samRepos/tree/main/modules/greetings"
+	"github.com/samma9/samRepos/modules/greetings"
 )
 
 func main() {
